@@ -1,5 +1,8 @@
+.bundle
 .idea
 .redcar
 .yardoc
 Gemfile.lock
 pkg
+doc
+!doc/setup.rb
