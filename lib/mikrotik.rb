@@ -32,6 +32,7 @@ $: << File.dirname(__FILE__)
 # Load up the code
 require 'extensions/string'
 require 'extensions/events'
+require 'mikrotik/version'
 require 'mikrotik/errors'
 require 'mikrotik/client'
 require 'mikrotik/connection'

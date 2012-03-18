@@ -6,3 +6,4 @@ Gemfile.lock
 pkg
 doc
 !doc/setup.rb
+*.gem
